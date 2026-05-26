@@ -65,7 +65,7 @@ Instead of relying on a single detection method, ShieldAI runs **three independe
 ---
 
 ## ✨ Features
-
+ 
 | Feature | Description |
 |---|---|
 | 🔍 **3-Engine Detection** | Regex + Semantic Similarity + Shannon Entropy running in parallel |
