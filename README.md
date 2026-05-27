@@ -111,7 +111,7 @@ Instead of relying on a single detection method, ShieldAI runs **three independe
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Architecture  
 
 ### System Overview
 
