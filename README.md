@@ -1,4 +1,4 @@
-# 🛡️ ShieldAI — LLM Security Gateway 
+# 🛡️ ShieldAI — LLM Security Gateway
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 📌 Table of Contents 
+## 📌 Table of Contents
 
 1. [What is ShieldAI?](#-what-is-shieldai)
 2. [Features](#-features)
