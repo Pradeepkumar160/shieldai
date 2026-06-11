@@ -1,4 +1,4 @@
-# 🛡️ ShieldAI — LLM Security Gateway
+# 🛡️ ShieldAI — LLM Security Gateway 
 
 <div align="center">
 
